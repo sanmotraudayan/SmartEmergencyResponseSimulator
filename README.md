@@ -264,19 +264,8 @@ When the relevant features operate correctly, the simulator demonstrates:
 
 The project is intended to demonstrate programming concepts and workflow simulation rather than provide a production-ready emergency response service.
 
-## 14. Limitations
 
-- The application uses a console-based interface.
-- Emergency information is entered manually.
-- Ambulances and hospitals are predefined or managed within the simulation.
-- It does not use real-time GPS, traffic data, or live hospital availability.
-- Emergency prioritization is based on predefined categories.
-- Serialized files are used instead of a database.
-- The monitor reports emergency activity but does not independently dispatch ambulances.
-- The application has no user authentication or network-based multi-user support.
-- Its behavior has not been established as safe or suitable for real emergency operations.
-
-## 15. Future Enhancements
+## 14. Future Enhancements
 
 Possible future improvements include:
 
@@ -290,7 +279,7 @@ Possible future improvements include:
 
 These are potential extensions, not features currently claimed as implemented.
 
-## 16. Conclusion
+## 15. Conclusion
 
 The **Smart Emergency Response Simulator** is a Java OOP mini-project that models the basic workflow of emergency registration, prioritization, dispatch, resource management, and record keeping.
 
