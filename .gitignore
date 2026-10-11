@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+
+# Application data and generated reports
+data/
+
+# IDE settings
+.vscode/
+.idea/
