@@ -298,13 +298,6 @@ It provides practical experience with abstraction, encapsulation, inheritance, p
 
 The project demonstrates how core Java concepts can be combined to build a structured application with multiple interacting classes and persistent data. It also provides a foundation for future enhancements involving databases, graphical interfaces, and more advanced simulation logic.
 
-## 17. References
-
-- [Oracle Java Documentation](https://docs.oracle.com/en/java/)
-- [Java Language Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/)
-- [Java Object Serialization](https://docs.oracle.com/en/java/javase/21/docs/specs/serialization/)
-- [GitHub Documentation](https://docs.github.com/)
-
 ---
 
 **Project:** Smart Emergency Response Simulator  
